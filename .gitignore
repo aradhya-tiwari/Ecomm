@@ -1,0 +1,13 @@
+node_modules
+dist
+.wrangler
+.dev.vars
+
+# Change them to your taste:
+wrangler.toml
+.env
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+test-test-test.js
+client
