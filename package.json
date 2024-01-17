@@ -10,7 +10,8 @@
     "git-add-functions": "git add packages/functions/*"
   },
   "workspaces": [
-    "packages/*"
+    "app/*",
+    "packages"
   ],
   "keywords": [],
   "author": "",
