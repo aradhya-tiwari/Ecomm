@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .responsive {
+        @apply flex flex-col md:flex-row md:justify-around
+    }
+
+    .addborder {
+        @apply border border-gray-500
+    }
+}
